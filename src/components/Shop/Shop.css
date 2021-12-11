@@ -8,5 +8,6 @@
     border-right: 1px solid lightgray;
 }
 .cart-container{
-
+    margin: 5px;
+    padding: 10px;
 }
